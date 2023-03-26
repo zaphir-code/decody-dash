@@ -1,4 +1,4 @@
-# Rofl Mod for decody
+# Rofl Mod for Decody
 
 Funny mod for youtuber decody, it has a lot of features.
 
